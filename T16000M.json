@@ -1,0 +1,22 @@
+{
+  "description": "T.16000M",
+
+  "vendorID": 1103,
+  "productID": 45322,
+
+  "axis": [
+    { "name": "thr", "id": 4 },
+    { "name": "yaw", "id": 5 },
+    { "name": "pit", "id": 3 },
+    { "name": "rol", "id": 2 }
+  ],
+
+  "buttons": [
+    { "name": "rateUp", "id": 4 },
+    { "name": "rateDown", "id": 9 },
+    { "name": "expoUp", "id": 5 },
+    { "name": "expoDown", "id": 8 },
+    { "name": "thrUp", "id": 6 },
+    { "name": "thrDown", "id": 7 }
+  ]
+}

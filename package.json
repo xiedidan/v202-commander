@@ -1,0 +1,19 @@
+{
+  "name": "v202-commander",
+  "version": "1.0.0",
+  "description": "",
+  "main": "v202-commander.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "cylon": "^1.2.0",
+    "cylon-joystick": "^0.19.1",
+    "serialport": "^2.0.6"
+  }
+}
